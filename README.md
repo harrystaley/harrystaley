@@ -12,6 +12,6 @@ Note: Ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (e
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harrystaley&theme=darkhub&row=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-// **Leetcode Stats**
+//**Leetcode Stats**
 
-// ![Leetcode Stats](https://leetcode.card.workers.dev/?username=harrystaley&theme=dark)
+//![Leetcode Stats](https://leetcode.card.workers.dev/?username=harrystaley&theme=dark)
