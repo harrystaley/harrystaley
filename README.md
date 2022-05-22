@@ -4,8 +4,6 @@ Harry Staley is a life-long learner with a love for data and the democratization
 
 **Github Stats**
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=harrystaley)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrystaley&count_private=true&show_icons=true&theme=dark)
 
 Note: Ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories. 
