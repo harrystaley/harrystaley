@@ -16,4 +16,4 @@ Note: Ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (e
 
 I have just gotten started with LeetCode as a hobby. It is a really fun and interesting challenge that can help keep skills sharp!!!
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=harrystaley&theme=dark)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=harrystaley&theme=auto&extension=activity)](https://leetcode.com/JacobLinCool)
