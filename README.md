@@ -5,11 +5,11 @@ Harry Staley is a life-long learner with a love for data and the democratization
 **Github Stats**
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=harrystaley&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=harrystaley&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 Note: Ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrystaley&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harrystaley&theme=darkhub&row=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -21,6 +21,7 @@ I have just gotten started with LeetCode as a hobby. It is a really fun and inte
 
 
 **Languages and Tools**
+
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -39,8 +40,47 @@ I have just gotten started with LeetCode as a hobby. It is a really fun and inte
  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
 **Connect with me**
+
 <p align="left">
 <a href="https://linkedin.com/in/harrystaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrystaley" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hstaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hstaley" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harrystaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harrystaley" height="30" width="40" /></a>
 </p>
+
+## Repos
+
+**Course/Learning Repos**
+
+<a href="https://github.com/harrystaley/Coursera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Coursera&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/DataCamp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=DataCamp&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/open-source-data-science-degree-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-data-science-degree-python&theme=dark" />
+</a>
+
+**Anki Decks**
+
+<a href="https://github.com/harrystaley/OMSCS-Anki&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=OMSCS-Anki&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/Linear_Algebra_Applications_Anki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Linear_Algebra_Applications_Anki&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/Calculus_III_Anki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_III_Anki&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/Calculus_II_Anki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_II_Anki&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/Pre-Calculus_Anki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Pre-Calculus_Anki&theme=dark" />
+</a>
