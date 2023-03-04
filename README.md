@@ -69,7 +69,7 @@ I have just gotten started with LeetCode as a hobby. It is a really fun and inte
 
 **Anki Decks**
 
-<a href="https://github.com/harrystaley/OMSCS-Anki&theme=dark">
+<a href="https://github.com/harrystaley/OMSCS-Anki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=OMSCS-Anki&theme=dark" />
 </a>
 
