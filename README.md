@@ -67,6 +67,11 @@ I have just gotten started with LeetCode as a hobby. It is a really fun and inte
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Kaggle&theme=dark" />
 </a>
 
+<a href="https://github.com/harrystaley/JDF_Latex_Tools">
+  <img align="center" src="ttps://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=JDF_Latex_Tools&theme=dark" />
+</a>
+
+
 **Anki Decks**
 
 <a href="https://github.com/harrystaley/OMSCS-Anki">
