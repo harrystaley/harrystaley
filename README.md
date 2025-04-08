@@ -11,54 +11,73 @@ Hi! I'm Harry — a lifelong learner who began his career as a **self-taught dev
 
 Since then, I’ve earned formal degrees in **Business Administration** and **Information Systems**, and continued to sharpen my skills through **Georgia Tech’s OMSCS program**. I’ve been honored to spend the last **12+ years supporting U.S. Army & DoD modernization** as a data scientist and engineer.
 
-Now, I teach Python and Cybersecurity with **Udacity** and **ThriveDX**, mentor students, and contribute to open source. I believe in giving back and growing together.
+I have taught Python and Cybersecurity with **Udacity** and **ThriveDX**. I love mentoring students, and contributing to open source. I believe in giving back and growing together.
 
 ---
 
 ## 🌍 Open Source Degrees
 
-I’ve created structured, open-source education tracks to help others break into tech—completely free and university-grade.
+<a href="https://github.com/harrystaley/open-source-data-science-degree-python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-data-science-degree-python&theme=dark" />
+</a>
 
-- [🧠 Open Source Data Science Degree (Python)](https://github.com/harrystaley/open-source-data-science-degree-python)  
-- [🛡️ Open Source Cybersecurity Degree](https://github.com/harrystaley/open-source-cybersecurity-degree)
+<a href="https://github.com/harrystaley/open-source-cybersecurity-degree">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-cybersecurity-degree&theme=dark" />
+</a>
 
 ---
 
 ## 🌟 Most Popular Repositories
 
-### 🔥 Featured Projects
+<a href="https://github.com/harrystaley/OMSCS-Anki">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=OMSCS-Anki&theme=dark" />
+</a>
 
-- [📘 OMSCS-Anki](https://github.com/harrystaley/OMSCS-Anki)  
-  Anki flashcards for Georgia Tech's OMSCS program—perfect for spaced-repetition review.
+<a href="https://github.com/harrystaley/DataCamp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=DataCamp&theme=dark" />
+</a>
 
-- [📘 DataCamp](https://github.com/harrystaley/DataCamp)  
-  My DataCamp learning journey in Python, Data Science, and ML, through hands-on notebooks.
+<a href="https://github.com/harrystaley/IPND_HTML_Intro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=IPND_HTML_Intro&theme=dark" />
+</a>
 
-- [🌐 IPND_HTML_Intro](https://github.com/harrystaley/IPND_HTML_Intro)  
-  A beginner-friendly HTML project repo from my Udacity Nanodegree.
+<a href="https://github.com/harrystaley/FASCLASS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=FASCLASS&theme=dark" />
+</a>
 
-- [🔍 FASCLASS](https://github.com/harrystaley/FASCLASS)  
-  A Python scraper for federal job classification (FASCLASS) listings.
-
-- [🕵️ TAMUSA_CSCI4349_Week9_Honeypot](https://github.com/harrystaley/TAMUSA_CSCI4349_Week9_Honeypot)  
-  A basic honeypot implementation and write-up for cybersecurity coursework.
+<a href="https://github.com/harrystaley/TAMUSA_CSCI4349_Week9_Honeypot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=TAMUSA_CSCI4349_Week9_Honeypot&theme=dark" />
+</a>
 
 ---
 
-## 📈 GitHub Analytics
+## 📚 Anki Decks
+
+<a href="https://github.com/harrystaley/Calculus_II_Anki">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_II_Anki&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/Calculus_III_Anki">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_III_Anki&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/Pre-Calculus_Anki">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Pre-Calculus_Anki&theme=dark" />
+</a>
+
+<a href="https://github.com/harrystaley/CSCI3343_Analysis_of_Algorithms">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=CSCI3343_Analysis_of_Algorithms&theme=dark" />
+</a>
+
+---
+
+## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrystaley&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrystaley&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=harrystaley&theme=darkhub&row=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🧠 Anki Decks
-
-- [Calculus_II_Anki](https://github.com/harrystaley/Calculus_II_Anki)  
-- [Calculus_III_Anki](https://github.com/harrystaley/Calculus_III_Anki)  
-- [Pre-Calculus_Anki](https://github.com/harrystaley/Pre-Calculus_Anki)  
-- [CSCI3343_Analysis_of_Algorithms](https://github.com/harrystaley/CSCI3343_Analysis_of_Algorithms)  
 
 ---
 
@@ -91,6 +110,6 @@ I’ve created structured, open-source education tracks to help others break int
 
 If you enjoy my work:
 
-- ⭐️ Star a repo
-- 🍴 Fork or clone a project
-- 🤝 Reach out to collaborate or learn together
+- ⭐️ Star a repo  
+- 🍴 Fork or clone a project  
+- 🤝 Reach out to collaborate or learn together  
