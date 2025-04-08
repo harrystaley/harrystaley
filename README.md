@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-Hi! I'm Harry — a lifelong learner who began his career as a **self-taught developer**, long before stepping into the classroom. In 2004, I built my first database project during a summer internship, which ignited my passion for data and its role in the modern world—from intrusion detection systems to voice assistants and autonomous vehicles.
+Hi! I'm Harry — a lifelong learner who began as a **self-taught developer**, well before stepping into a classroom. In 2004, I built my first database project during a summer internship, which sparked my passion for data — from intrusion detection systems to voice assistants and autonomous vehicles.
 
-Since then, I’ve earned formal degrees in **Business Administration** and **Information Systems**, and continued to sharpen my skills through **Georgia Tech’s OMSCS program**. I’ve been honored to spend the last **12+ years supporting U.S. Army & DoD modernization** as a data scientist and engineer.
+Since then, I’ve earned degrees in **Business Administration** and **Information Systems**, and I’m currently sharpening my skills through **Georgia Tech’s OMSCS program**. For over **12 years**, I've supported **U.S. Army and DoD modernization efforts** as a data scientist and engineer.
 
-I have taught Python and Cybersecurity with **Udacity** and **ThriveDX**. I love mentoring students, and contributing to open source. I believe in giving back and growing together.
+I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love mentoring students, and actively contribute to open source. I believe in giving back and growing together.
 
 ---
 
@@ -27,7 +27,7 @@ I have taught Python and Cybersecurity with **Udacity** and **ThriveDX**. I love
 
 ---
 
-## 🌟 Most Popular Repositories
+## 🌟 Popular Repositories
 
 <a href="https://github.com/harrystaley/OMSCS-Anki">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=OMSCS-Anki&theme=dark" />
@@ -51,7 +51,7 @@ I have taught Python and Cybersecurity with **Udacity** and **ThriveDX**. I love
 
 ---
 
-## 📚 Anki Decks
+## 🧠 Anki Decks
 
 <a href="https://github.com/harrystaley/Calculus_II_Anki">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_II_Anki&theme=dark" />
@@ -73,15 +73,15 @@ I have taught Python and Cybersecurity with **Udacity** and **ThriveDX**. I love
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrystaley&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrystaley&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrystaley&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrystaley&layout=compact&theme=dark&langs_count=10)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harrystaley&theme=darkhub&row=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=harrystaley&theme=darkhub&row=4&column=3)
 
 ---
 
-## 📚 Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" title="Bash" />
@@ -96,7 +96,7 @@ I have taught Python and Cybersecurity with **Udacity** and **ThriveDX**. I love
 
 ---
 
-## 🌐 Let’s Connect!
+## 🌐 Let’s Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/harrystaley"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" title="LinkedIn"/></a>
@@ -112,4 +112,4 @@ If you enjoy my work:
 
 - ⭐️ Star a repo  
 - 🍴 Fork or clone a project  
-- 🤝 Reach out to collaborate or learn together  
+- 🤝 Reach out to collaborate or learn together
