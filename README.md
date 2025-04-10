@@ -27,7 +27,7 @@ I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love men
 
 
 <a href="https://github.com/harrystaley/open-source-cs-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-cybersecurity-degree&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-cs-python&theme=dark&cache_seconds=1800" />
 </a>
 
 ---
