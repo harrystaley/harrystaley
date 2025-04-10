@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harry A. Staley Jr.
 
-🛡️ **Cybersecurity Educator | Python Developer | Open Source Advocate**  
+🗭️ **Cybersecurity Educator | Python Developer | Open Source Advocate**  
 📍 Based in Virginia | 💼 DoD + Army Procurement Systems | 🎓 OMSCS Learner
 
 ---
@@ -18,11 +18,11 @@ I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love men
 ## 🌍 Open Source Degrees
 
 <a href="https://github.com/harrystaley/open-source-data-science-degree-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-data-science-degree-python&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-data-science-degree-python&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/open-source-cybersecurity-degree">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-cybersecurity-degree&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-cybersecurity-degree&theme=dark&cache_seconds=1800" />
 </a>
 
 ---
@@ -30,23 +30,23 @@ I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love men
 ## 🌟 Popular Repositories
 
 <a href="https://github.com/harrystaley/OMSCS-Anki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=OMSCS-Anki&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=OMSCS-Anki&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/DataCamp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=DataCamp&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=DataCamp&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/IPND_HTML_Intro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=IPND_HTML_Intro&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=IPND_HTML_Intro&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/FASCLASS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=FASCLASS&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=FASCLASS&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/TAMUSA_CSCI4349_Week9_Honeypot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=TAMUSA_CSCI4349_Week9_Honeypot&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=TAMUSA_CSCI4349_Week9_Honeypot&theme=dark&cache_seconds=1800" />
 </a>
 
 ---
@@ -54,19 +54,19 @@ I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love men
 ## 🧠 Anki Decks
 
 <a href="https://github.com/harrystaley/Calculus_II_Anki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_II_Anki&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_II_Anki&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/Calculus_III_Anki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_III_Anki&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Calculus_III_Anki&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/Pre-Calculus_Anki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Pre-Calculus_Anki&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Pre-Calculus_Anki&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/CSCI3343_Analysis_of_Algorithms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=CSCI3343_Analysis_of_Algorithms&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=CSCI3343_Analysis_of_Algorithms&theme=dark&cache_seconds=1800" />
 </a>
 
 ---
@@ -111,5 +111,5 @@ I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love men
 If you enjoy my work:
 
 - ⭐️ Star a repo  
-- 🍴 Fork or clone a project  
+- 🍽️ Fork or clone a project  
 - 🤝 Reach out to collaborate or learn together
