@@ -84,17 +84,9 @@ I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love men
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrystaley&count_private=true&show_icons=true&theme=dark&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrystaley&layout=compact&theme=dark&langs_count=10&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harrystaley&theme=darkhub&row=4&column=3" alt="GitHub Trophies" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=harrystaley&count_private=true&show_icons=true&theme=dark&cache_seconds=1800" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrystaley&layout=compact&theme=dark&langs_count=10&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=harrystaley&theme=darkhub&row=4&column=3" alt="GitHub Trophies" />
 
 
 ---
