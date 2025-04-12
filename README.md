@@ -17,14 +17,15 @@ I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love men
 
 ## 🔥 Newest Projects
 
-<a href="https://github.com/harrystaley/open-source-data-science-degree-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-data-science-degree-python&theme=dark&cache_seconds=1800" />
+<a href="https://github.com/harrystaley/Github_Repo_Maintanence">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Github_Repo_Maintanence&theme=dark&cache_seconds=1800" />
 </a>
+
 
 ## 🌍 Open Source Degrees
 
-<a href="https://github.com/harrystaley/Github_Repo_Maintanence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Github_Repo_Maintanence&theme=dark&cache_seconds=1800" />
+<a href="https://github.com/harrystaley/open-source-data-science-degree-python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=open-source-data-science-degree-python&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/harrystaley/open-source-cybersecurity-degree">
