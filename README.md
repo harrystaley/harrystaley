@@ -21,9 +21,6 @@ I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love men
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Github_Repo_Maintanence&theme=dark&cache_seconds=1800" />
 </a>
 
-<a href="https://github.com/harrystaley/GT-CS8001-ODL_Nvidia_Deep_Learning_and_Gen_AI_Essentials">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=GT-CS8001-ODL_Nvidia_Deep_Learning_and_Gen_AI_Essentials&theme=dark&cache_seconds=1800" />
-</a>
 
 
 ## 🌍 Open Source Degrees
