@@ -84,10 +84,4 @@ Symbolic AI • Knowledge Representation • Cognitive Architectures
 
 ---
 
-## Connect
-
-LinkedIn: https://linkedin.com/in/harrystaley  
-LeetCode: https://leetcode.com/harrystaley  
-HackerRank: https://www.hackerrank.com/hstaley  
-
 If you're interested in collaborating on AI systems, cybersecurity tooling, or educational infrastructure, feel free to connect.
