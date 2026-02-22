@@ -76,11 +76,4 @@ Symbolic AI • Knowledge Representation • Cognitive Architectures
 
 ---
 
-## GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=harrystaley&show_icons=true&v=2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrystaley&layout=compact)
----
-
 If you're interested in collaborating on AI systems, cybersecurity tooling, or educational infrastructure, feel free to connect.
