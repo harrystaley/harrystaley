@@ -1,77 +1,93 @@
-# 👋 Hi, I'm Harry A. Staley Jr.
+# Harry A. Staley Jr.
 
-🗭️ **Cybersecurity Educator | Python Developer | Open Source Advocate**  
-📍 Based in Virginia | 💼 DoD + Army Procurement Systems | 🎓 OMSCS Learner
-
----
-
-## 🚀 About Me
-
-Hi! I'm Harry — a lifelong learner who began as a **self-taught developer**, well before stepping into a classroom. In 2004, I built my first database project during a summer internship, which sparked my passion for data — from intrusion detection systems to voice assistants and autonomous vehicles.
-
-Since then, I’ve earned degrees in **Business Administration** and **Information Systems**, and I’m currently sharpening my skills through **Georgia Tech’s OMSCS program**. For over **12 years**, I've supported **U.S. Army and DoD modernization efforts** as a data scientist and engineer.
-
-I've taught Python and Cybersecurity with **Udacity** and **ThriveDX**, love mentoring students, and actively contribute to open source. I believe in giving back and growing together.
+AI Systems Engineer | Cybersecurity | Python  
+DoD Systems | Georgia Tech OMSCS
 
 ---
 
-## 🛠️ Languages & Tools
+## Professional Summary
 
-### 🧑‍💻 Programming & Scripting
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" title="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />
-</p>
+Engineer and educator with 12+ years supporting U.S. Army and Department of Defense modernization initiatives, specializing in secure systems engineering, data pipelines, automation, and applied machine learning.
 
-### 📊 Data Science & Machine Learning
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" title="Jupyter" />
-</p>
+My work increasingly focuses on Knowledge-Based AI, symbolic reasoning, and cognitive architectures through Georgia Tech’s OMSCS program — applying structured AI methods to operational and security challenges.
 
-### 🗃️ Databases & Querying
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" title="SQLAlchemy" />
-</p>
-
-### 🌐 Web Development & APIs
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask" />
-</p>
-
-### 🛡️ Cybersecurity & Infrastructure
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="40" title="Vagrant" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />
-</p>
+I am particularly interested in hybrid symbolic + statistical AI approaches for mission-critical systems.
 
 ---
 
-## 🌐 Let’s Connect
+## Current Focus
 
-<p align="left">
-  <a href="https://linkedin.com/in/harrystaley"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" title="LinkedIn"/></a>
-  <a href="https://leetcode.com/harrystaley"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" title="Leetcode"/></a>
-  <a href="https://www.hackerrank.com/hstaley"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" title="HackerRank"/></a>
-</p>
+- Knowledge-Based AI (KBAI) and reasoning systems  
+- Cognitive architectures and structured representations  
+- AI-driven cybersecurity automation  
+- Applied machine learning for operational systems  
+- Secure, scalable data engineering pipelines  
 
 ---
 
-## ✨ Support & Collaborate
+## Featured Systems
 
-If you enjoy my work:
+### Knowledge-Based AI
 
-- ⭐️ Star a repo  
-- 🍽️ Fork or clone a project  
-- 🤝 Reach out to collaborate or learn together
+- **OMSCS-Anki**  
+  Structured knowledge-management system supporting long-term retention and AI coursework mastery.
+
+---
+
+### Cybersecurity & Defense Automation
+
+- **Contract_Name_From_Defense.gov**  
+  Python-based data extraction and automation pipeline for analyzing DoD contract award announcements. Demonstrates applied scripting, data processing, and real-world government data workflows.
+
+- **Open-Source-Cybersecurity-Degree**  
+  Structured, open educational infrastructure for cybersecurity training using curated high-quality resources.
+
+---
+
+### Data & Engineering Systems
+
+- **Open-Source-Data-Science-Degree-Python**  
+  Structured open-source data science curriculum integrating university-level materials and applied ML workflows.
+
+- **Data Science & ML Projects**  
+  End-to-end ML pipelines, feature engineering systems, classification models, and visualization frameworks.
+
+---
+
+## Engineering Philosophy
+
+I focus on building systems where representation, reasoning, and learning work together — combining classical AI approaches with modern machine learning to produce robust, interpretable solutions.
+
+---
+
+## Technical Stack
+
+Python • SQL • Linux • Docker • Git  
+Machine Learning • Data Engineering • Cybersecurity Automation  
+Symbolic AI • Knowledge Representation • Cognitive Architectures  
+
+---
+
+## Teaching & Mentorship
+
+- Python and Cybersecurity Instructor (Udacity, ThriveDX)  
+- Mentor supporting transitions into software engineering and security careers  
+- Advocate for open-source education and practical AI learning  
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrystaley&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrystaley&layout=compact&hide_border=true)
+
+---
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/harrystaley  
+LeetCode: https://leetcode.com/harrystaley  
+HackerRank: https://www.hackerrank.com/hstaley  
+
+If you're interested in collaborating on AI systems, cybersecurity tooling, or educational infrastructure, feel free to connect.
