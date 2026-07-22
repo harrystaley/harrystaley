@@ -1,101 +1,47 @@
 # Harry 👋
+**Senior Software Engineer & DataOps Lead | OMSCS (AI Track) | CISSP**  
+Applied ML • OSINT/Security Data • Python Automation • Reproducible Systems
 
-**Software Engineer | OMSCS (AI Track)**  
-Cybersecurity • Python Automation • Applied Machine Learning
-
-Engineer with a background in security and defense systems, currently focused on applying machine learning to real-world operational problems. I’m building AI capabilities on top of practical experience in automation, data processing, and reproducible system design.
+Engineer with ~a decade of experience building AI/ML enrichment pipelines and
+automation for federal security programs. I design reproducible, operationally
+grounded systems that turn messy real-world data into something models can use —
+and I publish peer-reviewed research on trustworthy AI and security.
 
 My work sits at the intersection of:
-
-- Machine learning workflows
-- Security data analysis
-- Python-based automation
-- Operationally grounded system design
+- ML/LLM data enrichment pipelines
+- Security & OSINT data analysis
+- Python-based automation at scale
+- Reproducible, trustworthy system design
 
 ---
+## 🔬 Research
+- **Trustworthy LLM-agent workflows / source attestation** — in-progress IEEE work
+  with Prof. Vijay K. Madisetti (Fellow, IEEE)
+- **CPU side-channel analysis** — ICSC 2024
+- **Insider-threat detection** — Springer, 2021
 
+---
 ## 🎯 Current Focus
-
-- Applied machine learning fundamentals
-- Building reproducible AI workflows
-- Model evaluation and validation
-- Data preprocessing and feature engineering
-- Applying ML techniques to security and operational datasets
+- Provenance & attestation for trustworthy AI-agent workflows
+- Reproducible ML/LLM evaluation pipelines
+- Applying ML to security and operational datasets
+- Digital accessibility in computing (see below)
 
 ---
-
 ## 🚀 Selected Projects
-
-### 🔐 Cybersecurity Honeypot Lab
-
-Practical security lab environment for traffic capture and analysis.
-
-- Infrastructure-as-code deployment
-- Data collection suitable for anomaly detection workflows
-- Reproducible security experimentation environment
+[keep your three — they're good — but consider promoting the tier-stratified
+provenance repo if it's public, since it ties to the IEEE work]
 
 ---
-
-### 📊 Defense Data Automation
-
-Python tooling for extracting and transforming structured defense personnel data.
-
-- Data normalization and preprocessing pipelines
-- Automation of manual reporting workflows
-- Structured datasets suitable for analytics and ML experimentation
+## ♿ Accessibility & Service
+- Vice President, National Federation of the Blind — Computer Science Division
+- Vice President, National Federation of the Blind — Science & Engineering Division
+- Proposing a graduate Digital Accessibility course (OMSCS)
 
 ---
-
-### 🎓 Open-Source Teaching Materials
-
-Course resources and structured learning content for cybersecurity education.
-
-- Hands-on lab environments
-- Python scripting exercises
-- Applied systems thinking
-
----
-
-## 🧠 What I'm Learning (AI)
-
-- Supervised learning workflows
-- Feature engineering techniques
-- Model evaluation strategies
-- Practical ML experimentation
-- Integrating AI into existing engineering workflows
-
----
-
 ## 🛠 Technical Background
-
-**Languages:** Python, Bash, SQL  
-
-**Data & ML:**  
-- Pandas
-- Data preprocessing workflows
-- Experimentation and evaluation pipelines
-
-**Security:**  
-- Network labs
-- Defensive tooling
-- Infrastructure experimentation
-
-**Tools:**  
-Linux • Git • Cloud environments
-
----
-
-## ⚙️ Engineering Approach
-
-- Prefer simple, maintainable solutions
-- Automation where possible
-- Practical experimentation over theoretical complexity
-- Learning through building and iteration
-
----
-
-## 📈 Current Work
-
-- OMSCS Artificial Intelligence track
-- Building AI-focused portfolio projects
-- Integrating ML techniques into security workflows
+**Languages:** Python, Bash, SQL
+**ML / Data:** Pandas, spaCy, scikit-learn, FastAPI, OpenSearch, Airflow;
+data enrichment & evaluation pipelines
+**Security:** CISSP; OSINT tooling, network labs, defensive infrastructure
+**Tools:** Linux • Git • Docker • Cloud
