@@ -34,6 +34,13 @@ My work sits at the intersection of:
 - **[github-profile-readme-generator](https://github.com/harrystaley/github-profile-readme-generator)** — tooling for structured, maintainable profile READMEs.
 - **[shell_setup](https://github.com/harrystaley/shell_setup)** — reproducible shell/bootstrap environment setup.
 - **[open-source-cs-python](https://github.com/harrystaley/open-source-cs-python)** — curated, open-source CS learning path in Python.
+- **[open-source-data-science-degree-python](https://github.com/harrystaley/open-source-data-science-degree-python)** — open-source data-science curriculum and project roadmap in Python.
+- **[template](https://github.com/harrystaley/template)** — starter template repo for consistent project structure and onboarding.
+
+### 📚 Coursework & Study Resources
+- **FSND / FEND repos** — Udacity Full Stack and Front End Nanodegree projects, archived for portfolio/reference use.
+- **Calculus_*_Anki + Anki_template** — reusable spaced-repetition decks/templates for technical study.
+- **JDF_Latex_Tools** — helper tooling for LaTeX-based coursework and document workflows.
 
 ---
 ## ♿ Accessibility & Service
