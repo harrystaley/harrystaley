@@ -29,8 +29,11 @@ My work sits at the intersection of:
 
 ---
 ## 🚀 Selected Projects
-[keep your three — they're good — but consider promoting the tier-stratified
-provenance repo if it's public, since it ties to the IEEE work]
+- **[harrystaley.github.io](https://github.com/harrystaley/harrystaley.github.io)** — personal portfolio and project hub.
+- **[staleyh.us](https://github.com/harrystaley/staleyh.us)** — personal site content and publishing workflow.
+- **[github-profile-readme-generator](https://github.com/harrystaley/github-profile-readme-generator)** — tooling for structured, maintainable profile READMEs.
+- **[shell_setup](https://github.com/harrystaley/shell_setup)** — reproducible shell/bootstrap environment setup.
+- **[open-source-cs-python](https://github.com/harrystaley/open-source-cs-python)** — curated, open-source CS learning path in Python.
 
 ---
 ## ♿ Accessibility & Service
